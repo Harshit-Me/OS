@@ -10,3 +10,4 @@ in the shell. The shell only executes simple commands (commands which are readil
 executables and can be invoked using exec system calls) like ls, cat, echo, sleep.
 
 Implemented a "history" command which returns the last 5 commands.
+Press Ctrl + c to exit.
